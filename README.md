@@ -1,7 +1,7 @@
 # Simon-Game
 <em> A Web Game called Simon-Game, created with the help of HTML, CSS, JavaScript and jQuery. </em>
 
-### Description of The Game
+### DESCRIPTION OF THE GAME
 <img src="https://github.com/StefanHristov1997/Simon-Game/assets/133797718/85278882-d039-4ba6-8820-b34ec91b9074" alt="Simon-Game image" height="400px" width="800px"/>
 
 The Simon Game is a classic electronic game of memory skill. 🤔 <br>
