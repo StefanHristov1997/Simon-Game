@@ -9,3 +9,7 @@ The game presents a series of colored buttons and plays a sequence, which the pl
 With each successful round, the sequence becomes longer and more complex. 😮‍💨 <br>
 The goal is to see how many rounds the player can successfully complete without making a mistake. 😉 <br>
 This web version of the Simon Game faithfully recreates the nostalgic experience of the original while adding a modern touch with its HTML, CSS, JavaScript, and jQuery implementation.
+### IF YOU WANT TO TEST YOUR MEMORY
+
+Check the link below:
+https://stefanhristov1997.github.io/Simon-Game/
