@@ -1,2 +1,2 @@
 # Simon-Game
-A simple Web Simon-Game, using HTML, CSS, JavaScript and jQuery;
+A Web Game called Simon-Game, created with the help of HTML, CSS, JavaScript and jQuery.
