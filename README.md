@@ -3,6 +3,7 @@
 
 ### Description of The Game
 <img src="https://github.com/StefanHristov1997/Simon-Game/assets/133797718/85278882-d039-4ba6-8820-b34ec91b9074" alt="Simon-Game image" height="400px" width="800px"/>
+
 The Simon Game is a classic electronic game of memory skill 🤔. <br>
 The game presents a series of colored buttons and plays a sequence, which the player must then repeat by clicking the buttons in the same order. <br>
 With each successful round, the sequence becomes longer and more complex.😮‍💨 <br>
