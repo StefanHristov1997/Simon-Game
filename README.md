@@ -11,5 +11,5 @@ The goal is to see how many rounds the player can successfully complete without 
 This web version of the Simon Game faithfully recreates the nostalgic experience of the original while adding a modern touch with its HTML, CSS, JavaScript, and jQuery implementation.
 ### IF YOU WANT TO TEST YOUR MEMORY
 
-Check the link below:
+Check the link below: <br>
 https://stefanhristov1997.github.io/Simon-Game/
